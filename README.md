@@ -16,7 +16,7 @@ A simple CRUD (Create, Read, Update, Delete) system built with PHP and HTML.
 ## 🚀 Setup
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Sami-gh05/User-CRUD-system.git
    ```
 
 2. **Database Setup**:
